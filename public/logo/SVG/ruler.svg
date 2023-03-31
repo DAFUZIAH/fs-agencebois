@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 151.18 151.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #24252c;
+      }
+    </style>
+  </defs>
+  <g id="Crayon">
+    <g>
+      <g>
+        <path class="cls-1" d="m118.26,125.12l-18.04,18.04L8.02,50.96l18.04-18.04,92.2,92.2m8.02,0l-4.01-4.01L30.07,28.91l-4.01-4.01-4.01,4.01L4.01,46.95l-4.01,4.01,4.01,4.01,92.2,92.2,4.01,4.01,4.01-4.01,18.04-18.04,4.01-4.01h0Z"/>
+        <rect class="cls-1" x="26.02" y="37.03" width="5.67" height="10.23" transform="translate(38.25 -8.06) rotate(45)"/>
+        <rect class="cls-1" x="34.04" y="45.05" width="5.67" height="10.23" transform="translate(46.27 -11.38) rotate(45)"/>
+        <rect class="cls-1" x="38.96" y="51.78" width="5.67" height="19" transform="translate(55.57 -11.6) rotate(45)"/>
+        <rect class="cls-1" x="50.08" y="61.08" width="5.67" height="10.23" transform="translate(62.3 -18.03) rotate(45)"/>
+        <rect class="cls-1" x="58.09" y="69.1" width="5.67" height="10.23" transform="translate(70.32 -21.35) rotate(45)"/>
+        <rect class="cls-1" x="63.01" y="75.83" width="5.67" height="19" transform="translate(79.62 -21.57) rotate(45)"/>
+        <rect class="cls-1" x="74.13" y="85.13" width="5.67" height="10.23" transform="translate(86.36 -27.99) rotate(45)"/>
+        <rect class="cls-1" x="82.15" y="93.15" width="5.67" height="10.23" transform="translate(94.37 -31.31) rotate(45)"/>
+        <rect class="cls-1" x="87.06" y="99.88" width="5.67" height="19" transform="translate(103.68 -31.53) rotate(45)"/>
+        <rect class="cls-1" x="98.18" y="109.19" width="5.67" height="10.23" transform="translate(110.41 -37.95) rotate(45)"/>
+        <rect class="cls-1" x="106.2" y="117.2" width="5.67" height="10.23" transform="translate(118.43 -41.27) rotate(45)"/>
+      </g>
+      <g>
+        <path class="cls-1" d="m84.88,48.18l-5.32,16.28-3.46,10.61,10.61-3.46,16.29-5.32,1.29-.42,46.89-46.89L132.18,0l-46.89,46.89-.42,1.29Zm47.31-40.16l10.97,10.97-41.92,41.92-16.29,5.32,5.32-16.29,41.92-41.92Z"/>
+        <rect class="cls-1" x="127.85" y="7.06" width="5.67" height="26.86" transform="translate(23.79 98.41) rotate(-45)"/>
+      </g>
+    </g>
+  </g>
+</svg>

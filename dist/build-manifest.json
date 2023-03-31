@@ -1,0 +1,88 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/0kXaYs0-UplAqXeffKUg8/_buildManifest.js",
+    "static/0kXaYs0-UplAqXeffKUg8/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7477d36a73a3487c.js",
+      "static/chunks/975-1ab6e4adf658a49b.js",
+      "static/chunks/pages/index-345c8a50693154e4.js"
+    ],
+    "/Armoires": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7477d36a73a3487c.js",
+      "static/chunks/975-1ab6e4adf658a49b.js",
+      "static/chunks/pages/Armoires-c39776b16d2595bc.js"
+    ],
+    "/Bathroom": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7477d36a73a3487c.js",
+      "static/chunks/975-1ab6e4adf658a49b.js",
+      "static/chunks/pages/Bathroom-ca627883820136e3.js"
+    ],
+    "/Contact": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7477d36a73a3487c.js",
+      "static/chunks/pages/Contact-64689105551d622c.js"
+    ],
+    "/Cuisines": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7477d36a73a3487c.js",
+      "static/chunks/975-1ab6e4adf658a49b.js",
+      "static/chunks/pages/Cuisines-3e4a71f8f738180b.js"
+    ],
+    "/Divers": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7477d36a73a3487c.js",
+      "static/chunks/975-1ab6e4adf658a49b.js",
+      "static/chunks/pages/Divers-4a7361eabc8ee18c.js"
+    ],
+    "/Jobs": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7477d36a73a3487c.js",
+      "static/chunks/pages/Jobs-89d4b38f67dc8807.js"
+    ],
+    "/Layout": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7477d36a73a3487c.js",
+      "static/chunks/pages/Layout-9d2e2d47ec14c562.js"
+    ],
+    "/Projects": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7477d36a73a3487c.js",
+      "static/chunks/975-1ab6e4adf658a49b.js",
+      "static/chunks/pages/Projects-1b3914282736912f.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7477d36a73a3487c.js",
+      "static/css/cd6a167f7efbcb7f.css",
+      "static/chunks/pages/_app-80e12503073669aa.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-b8f8d6679aaa5f42.js",
+      "static/chunks/framework-2c79e2a64abdb08b.js",
+      "static/chunks/main-7477d36a73a3487c.js",
+      "static/chunks/pages/_error-54de1933a164a1ff.js"
+    ]
+  },
+  "ampFirstPages": []
+}

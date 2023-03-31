@@ -1,0 +1,209 @@
+"use strict";
+exports.id = 788;
+exports.ids = [788];
+exports.modules = {
+
+/***/ 2788:
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "x": () => (/* binding */ projets)
+/* harmony export */ });
+const projets = [
+    {
+        name: "cuisine 1",
+        category: "cuisine",
+        img: "cuisines/cuisine1.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "meuble 1",
+        category: "divers",
+        img: "divers/carnotzet-[desktop].webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "cuisine 2",
+        category: "cuisine",
+        img: "cuisines/cuisine2.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "cuisine 3",
+        category: "cuisine",
+        img: "cuisines/cuisine3.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "cuisine 4",
+        category: "cuisine",
+        img: "cuisines/cuisine4.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "meuble 1",
+        category: "divers",
+        img: "divers/table-[desktop].webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "cuisine 5",
+        category: "cuisine",
+        img: "cuisines/cuisine5.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "cuisine 6",
+        category: "cuisine",
+        img: "cuisines/cuisine6.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "bathroom",
+        category: "Salle de bain",
+        img: "bathroom/bath6.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "bathroom",
+        category: "Salle de bain",
+        img: "bathroom/bath1.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "bathroom",
+        category: "Salle de bain",
+        img: "bathroom/bath2.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "bathroom",
+        category: "Salle de bain",
+        img: "bathroom/bath3.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "armoire",
+        category: "armoire",
+        img: "armoires/armoire1.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "armoire",
+        category: "armoire",
+        img: "armoires/armoire3.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "armoire",
+        category: "armoire",
+        img: "armoires/armoire5.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "armoire",
+        category: "armoire",
+        img: "armoires/armoire6.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "armoire",
+        category: "armoire",
+        img: "armoires/armoire8.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "armoire",
+        category: "armoire",
+        img: "armoires/armoire9.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "armoire",
+        category: "armoire",
+        img: "armoires/armoire10.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "armoire",
+        category: "armoire",
+        img: "armoires/armoire11.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "armoire",
+        category: "armoire",
+        img: "armoires/armoire12.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "meuble 3",
+        category: "divers",
+        img: "divers/divers9.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "meuble 4",
+        category: "divers",
+        img: "divers/tagre1.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "meuble 5",
+        category: "divers",
+        img: "divers/tagre2.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "meuble 6",
+        category: "divers",
+        img: "divers/tagre3.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "meuble 7",
+        category: "divers",
+        img: "divers/tagre4.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    },
+    {
+        name: "meuble 8",
+        category: "divers",
+        img: "divers/tagre5.webp",
+        date: "2018",
+        lieu: "Remaufens"
+    }
+];
+
+
+
+/***/ })
+
+};
+;
