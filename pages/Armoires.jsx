@@ -38,7 +38,6 @@ export default function Cuisines() {
         </Head>
         <main className="main overflow-hidden overflow-y-scroll">
             <div className="px-2 md:px-8 mb-12 md:mb-32">
-                <h1>This is projects list</h1>
                 <div className="">
                     <h2 className="project-details-title">Armoires</h2>
                         <div className="">

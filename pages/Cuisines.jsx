@@ -41,7 +41,6 @@ export default function Cuisines() {
         </Head>
         <main className="main overflow-hidden overflow-y-scroll">
             <div className="px-2 md:px-8 mb-12 md:mb-32">
-                <h1>This is projects list</h1>
                 <div className="">
                     <h2 className="project-details-title">Cuisines</h2>
                         <div className="">
@@ -50,7 +49,7 @@ export default function Cuisines() {
                                     back to projects
                                 </Link>
                                 <Link href="/Projects" className="return-button-arrow">
-                                    <span className=" inline-block rotate-180">➔</span>
+                                    <span className="inline-block rotate-180">➔</span>
                                 </Link>
                                 {projets.map((projets, idx) => {
                                     if (projets.category === 'cuisine'){
