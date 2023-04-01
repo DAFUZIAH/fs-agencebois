@@ -18,6 +18,10 @@
   }
 }
 
+.project-details-title {
+  @apply text-2xl md:text-8xl font-bold pt-5 md:pt-10 mb-12;
+}
+
 
 .project-category-wrapper-single {
   width: 100%;
@@ -52,6 +56,10 @@
 
 .return-button-arrow {
   @apply text-4xl font-bold fixed z-40 top-32 md:hidden bg-white;
+}
+
+.project-item h3 {
+  @apply hidden md:block;
 }
 
 .return-button:hover::after {
